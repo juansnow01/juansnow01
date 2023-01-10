@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juansnow01
 - 👀 I’m interested in F/OSS, Online Privacy and Encryption.
-- 🌱 I’m currently learning Python, JavaScript and Bash
+- 🌱 I’m currently learning Python and Bash
 - 📫 juansnow@xmpp.chat
 
 <!---
